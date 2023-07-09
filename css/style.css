@@ -1,0 +1,26 @@
+body{
+    background-color: mediumaquamarine;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3vh;  
+}
+
+.row{
+    display: flex;
+    gap: 0.3vh
+}   
+
+.square{
+    min-height: 5vh;
+    background-color: white;
+    aspect-ratio: 1 / 1;
+}
+
+.color{
+    background-color: red;
+}
