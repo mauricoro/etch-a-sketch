@@ -4,19 +4,19 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 97vh;
     align-items: center;
     justify-content: center;
-    gap: 0.3vh;  
+    gap: 0.2vh;  
 }
 
 .row{
     display: flex;
-    gap: 0.3vh
+    gap: 0.2vh
 }   
 
 .square{
-    min-height: 5vh;
+    
     background-color: white;
     aspect-ratio: 1 / 1;
 }
