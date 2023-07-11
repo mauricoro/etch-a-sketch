@@ -10,6 +10,16 @@ body{
     gap: 0.2vh;  
 }
 
+button{
+    background-color: mediumaquamarine;
+    border: solid;
+    border-width: 0.1vh;
+    border-radius: 2vh;
+    margin-bottom: 1vh;
+    
+
+
+}
 .row{
     display: flex;
     gap: 0.2vh
